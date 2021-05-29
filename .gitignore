@@ -1,0 +1,12 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+random_schuffle.txt
+Rev_and_Shuff.txt
+reverse_list.txt
+suprised_random.txt
+# Local History for Visual Studio Code
+.history/
